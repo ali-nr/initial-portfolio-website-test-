@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/alirezanoori/sitemap-xsl.xsl"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+					<loc>http://localhost/alirezanoori/</loc>
+							<priority>1</priority>
+							<changefreq>daily</changefreq>
+							<lastmod>2015-05-19</lastmod>
+			</url>
+
+	<url>
+					<loc>http://localhost/alirezanoori/hello-world/</loc>
+							<priority>0.6</priority>
+							<changefreq>daily</changefreq>
+							<lastmod>2015-05-19</lastmod>
+			</url>
+
+	<url>
+					<loc>http://localhost/alirezanoori/</loc>
+							<priority>0.6</priority>
+							<changefreq>daily</changefreq>
+							<lastmod>2015-05-19</lastmod>
+			</url>
+	<url>
+					<loc>http://localhost/alirezanoori/blog/</loc>
+							<priority>0.6</priority>
+							<changefreq>daily</changefreq>
+							<lastmod>2015-05-19</lastmod>
+			</url>
+
+
+
+
+
+	<url>
+					<loc>http://localhost/alirezanoori/category/uncategorized/</loc>
+							<priority>0.4</priority>
+							<changefreq>weekly</changefreq>
+							<lastmod>2015-05-19</lastmod>
+			</url>
+
+
+
+</urlset>

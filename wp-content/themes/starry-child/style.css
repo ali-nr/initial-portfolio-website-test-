@@ -1,0 +1,144 @@
+/*
+ Theme Name:   Starry Child
+ Description:  Starry Child Theme
+ Author:       Alireza Noori
+ Template:     starry
+ Version:      1.0.0
+*/
+
+
+.col-md-3.team-single {
+    margin-top: -200px;
+}
+
+img#profile-image {
+    width: 500px;
+    height: 313px;
+}
+
+p#profile-para {
+    margin: 0 20em 0 20em;
+}
+
+.Check-Me-Out {
+    margin-top: -83px;
+}
+
+.Checkout-My-Skills{
+    margin-top: -146px;
+}
+
+#button-skill{
+    display: none;
+}
+
+.portfolio-container.with-separation-bottom:after {
+    z-index: 0;
+}
+
+.Checkout-My-Work {
+    margin-top: -173px;
+    padding: 0;
+}
+
+div#button-container-work{
+    padding-top: 0;
+}
+
+#button-work{
+    display: none;
+}
+
+section.custom-section-container.Checkout-My-Work.with-separation-top:before {
+    background-image: url("");
+}
+
+.Checkout-My-Blog{
+    margin-top: -212px;
+    padding: 0;
+}
+
+section.custom-section-container.Checkout-My-Blog.with-separation-top:before {
+    background-image: url("");
+}
+
+div#wpcf7-f5-p7-o1 {
+    margin: 30px 40px 0 40px;
+}
+
+
+.wpcf7-form-control.wpcf7-text{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+textarea#message {
+    height: 175px;
+}
+
+.nav-tabs>li{
+    float: none;
+}
+
+.nav-tabs>li>a {
+    border-radius: 0;
+    border-bottom: 1px solid #E7E7E7;
+    text-align: right;
+    padding: 25px;
+    margin-right: 0;
+}
+
+
+
+
+
+@media only screen and (max-width: 1180px) {
+    .col-md-3.team-single {
+        margin-top: -240px;
+    }
+
+    img#profile-image {
+        width: 400px;
+        height: 250px;
+    }
+
+    p#profile-para {
+        margin: 0 10em 0 10em;
+    }
+
+}
+
+@media only screen and (max-width: 992px) {
+    .col-md-3.team-single {
+        margin-top: -115px;
+    }
+
+    img#profile-image {
+        width: 300px;
+        height: 188px;
+    }
+
+    p#profile-para {
+        margin: 0 2em 0 2em;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 670px) {
+
+    .Checkout-My-Skills{
+        margin-top: -135px;
+    }
+
+    .Checkout-My-Work {
+        margin-top: -157px;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-md-3 {
+         width: auto;
+    }
+}

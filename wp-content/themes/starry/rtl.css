@@ -1,0 +1,22 @@
+/*
+Theme Name:     Starry
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+#navigation ul.sub-menu li,
+#top-navigation ul.sub-menu li,
+.blog-grid>li:nth-of-type(odd) .blog-button,
+.blog-sum-up{
+	text-align: right;
+}
+.main-container ul.post-metadatas{
+	padding-right: 0;
+}

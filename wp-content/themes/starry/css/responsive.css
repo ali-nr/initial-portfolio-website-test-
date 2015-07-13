@@ -1,0 +1,115 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* RESPONSIVE STYLESHEET 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+@media only screen and (min-height: 700px) {
+	#header.big{min-height: 65vh;}
+}
+@media only screen and (max-width: 1200px) {
+	.blog-grid>li:nth-of-type(odd) .blog-thumbnail{margin-left: 15px;}
+	.blog-grid .blog-thumbnail{margin-right: 15px;}
+	.blog-grid .blog-content{padding: 25px 20px 0 20px;}
+	.blog-sum-up{font-size: .9em;}
+	.main-container a.blog-post-title h2{font-size: 1.6em;}
+}
+@media only screen and (max-width: 1100px) {
+	#navigation ul li a:after{display: none;}
+	#navigation ul li{padding: 10px 0 6px 0;}
+	#navigation ul.sub-menu, #navigation .mega-menu{top: 35px;}
+	#left-navigation, #right-navigation{margin-top: 5px;}
+	#ticker-text ul li{font-size: 4em; letter-spacing: -3px;}
+	#header.big{min-height: 65vh;}	
+}
+@media only screen and (max-width: 992px) {
+	/** CHANGES BY PAUL https://2f.ticksy.com/ticket/392035 **/
+	#header.big {min-height: 35vh !important;}
+	/**END**/
+	#show-mobile-menu, #navigation-mobile{display: block;}
+	#navigation-mobile #show-mobile-menu, #navigation-mobile #logo-container {display: none;}
+	#show-mobile-menu:hover{opacity: .5;}
+	#navigation-mobile #logo-navigation{display: none;}
+	#navigation{z-index: 11;}
+	#navigation.navigation-fixed #logo-navigation{margin-top: 10px;}
+	#navigation #left-navigation,#navigation #right-navigation{display: none;}
+	#logo-navigation{float: right !important;margin-right: 40px;margin-top: -20px;}
+	.navigation-fixed #show-mobile-menu{color: #444; font-size: 1.5em; top: 18px;}
+	#ticker-text ul li{font-size: 3em; letter-spacing: 0;}
+	.contact-box{text-align: center; display: block !important; padding-top: 30px !important;}
+	.contact-box:first-child{padding-top: 50px;}
+	.milestone-box{text-align: center; display: block; padding-top: 30px;}
+	.milestone-box:first-child{padding-top: 50px;}
+	.contact-box a.btn.btn-default{float: none; margin: 0;}
+	.custom-section-text{padding-left: 5%;padding-right: 5%;}
+	.custom-section-buttons{padding-right: 5%;}
+	.portfolio-container figure{width: 50%;}
+	#top-navigation{display: none;}
+	#top-navigation.show-mobile{display: block !important; position: absolute;right: 0;top: 0;z-index: 16;width: 160px;}
+	#top-navigation.show-mobile ul{text-align: right;border:0;}
+	#top-navigation.show-mobile li{display: none;}
+	#top-navigation.show-mobile li.language-switcher{display: block !important;}
+	#scroll-top{display: none !important;}
+	#header.big{min-height: 35vh}
+	/*MEGA MENU*/
+	.mega-menu{position: relative;display: block !important;top:0;}
+	#navigation-mobile ul.sub-menu{padding-left: 20px;}
+	/*BLOG GRID*/
+	.blog-grid>li{margin-bottom: 40px;}
+	.blog-grid>li:nth-of-type(odd) .blog-thumbnail,
+	.blog-grid>li .blog-thumbnail{float: none !important;}
+	.blog-grid>li:nth-of-type(odd){background: transparent;}
+	.blog-grid>li, .blog-grid>li:nth-of-type(odd) .blog-sum-up, .blog-grid>li .blog-sum-up,
+	.blog-grid>li:nth-of-type(odd) .blog-button, .blog-grid>li .blog-button,
+	.post-metadatas, .blog-post-title h2{text-align: center !important;}
+	.blog-grid .blog-content, .blog-grid li.blog-post{height: auto !important;}
+	/*SECOND FEATURED IMAGE*/
+	.main-container .second-featured{max-height: 200px;}
+	/*FIX PARALAX IMAGE*/
+	.parallax-section-container{background-attachment: scroll;}
+
+}
+@media only screen and (max-width: 670px) {
+	#header-canvas{display: none;}
+	/** CHANGES BY PAUL https://2f.ticksy.com/ticket/392035 **/
+	#header.big {min-height: 20vh !important;}
+	/**END**/
+	#ticker-text ul li{font-size: 2em; letter-spacing: 0;}
+	.main-container .btn{padding: 7px 15px 5px 15px;}
+	.custom-section-text, .custom-section-buttons{float: none; width: 100%; text-align: center;}
+	.custom-section-text{border: none;}
+	.custom-section-buttons{padding-right: 0;}
+	.custom-section-buttons:before{content: none;}
+	.skills-row, .skill{width: 100%;display: block; border: 0;}
+	#logo-navigation{width: 100% !important;margin-right: 0!important}
+	#scroll-bottom{display: none;}
+	/** CHANGES BY PAUL https://2f.ticksy.com/ticket/392035 **/
+	#navigation{position: relative;}
+	#logo-navigation{width: 100% !important; margin-right: 0!important; top: -35px !important;}
+	#navigation.navigation-fixed{position: fixed;}
+	#navigation.navigation-fixed a#logo-navigation {top: 0 !important;}
+	/**END**/
+	.nav-tabs{width: 100%;}
+	.nav-tabs>li>a{padding: 10px 25px;}
+	.tab-pane{float: none;width: 100%;padding: 0;}
+
+	body #page #navigation{position: absolute !important;}
+}	
+@media only screen and (max-width: 492px) {
+	#ticker-text ul li{font-size: 1.5em; letter-spacing: 0;}
+	#header-slider{width: 200%;}
+	#header-slider img{width: 200%;max-width: 200%;}
+	/** CHANGES BY PAUL https://2f.ticksy.com/ticket/392035 **/
+	#header.big {height: 40vh !important;}
+	#logo-navigation{width: 100% !important; margin-right: 0!important; top: -35px !important;}
+	/*END*/
+}
+/*IPHONE 6+ FIX*/
+@media only screen 
+    and (min-device-width : 375px) 
+    and (max-device-width : 667px) 
+    and (orientation : portrait) 
+    and (-webkit-min-device-pixel-ratio : 2){ 
+	#header.big {
+		min-height: 20vh;
+	}
+}

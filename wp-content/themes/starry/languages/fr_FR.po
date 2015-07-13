@@ -1,0 +1,1908 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Starry\n"
+"POT-Creation-Date: 2015-01-15 21:54+0100\n"
+"PO-Revision-Date: 2015-01-15 22:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: 2F <help@2f-design.fr>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;_e;_n:1,2;__;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "404 Error"
+msgstr "Erreur 404"
+
+#: ../404.php:18
+msgid "Not found..."
+msgstr "Rien trouvé"
+
+#: ../404.php:21 ../content-none.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à votre recherche. S'il vous plaît essayez "
+"avec d'autres mots."
+
+#: ../archive.php:27
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archives quotidienne: %s"
+
+#: ../archive.php:30
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelle: %s"
+
+#: ../archive.php:30
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:36
+msgid "Archives"
+msgstr ""
+
+#: ../category.php:18
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Categories Archives: %s"
+
+#: ../comments.php:22
+#, php-format
+msgid "<i class=\"fa fa-comment\"></i> One comment"
+msgid_plural "<i class=\"fa fa-comments\"></i> %1$s comments"
+msgstr[0] "<i class=\"fa fa-comment\"></i> Un commentaire"
+msgstr[1] "<i class=\"fa fa-comments\"></i> %1$s commentaires"
+
+#: ../comments.php:45
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: ../comments.php:46
+msgid "<i class=\"fa fa-chevron-left\"></i> Older Comments"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Ancien Commentaires"
+
+#: ../comments.php:47
+msgid "Newer Comments <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Nouveau Commentaires <i class=\"fa fa-chevron-right\"></i>"
+
+#: ../comments.php:52
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés"
+
+#: ../comments.php:63
+msgid "Leave a Reply"
+msgstr "Commentez"
+
+#: ../comments.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Commentez la réponse de %s"
+
+#: ../comments.php:65
+msgid "Cancel Reply"
+msgstr "Annuler la réponse"
+
+#: ../comments.php:66 ../inc/hooks.php:472
+msgid "Post Comment"
+msgstr "Envoyer votre commentaire"
+
+#: ../content-none.php:10
+msgid "Nothing Found"
+msgstr "Rien trouvé"
+
+#: ../content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt pour publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: ../content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne trouvons pas ce que vous cherchez. Peut-être qu'une "
+"recherche peut aidé."
+
+#: ../content-page.php:49
+msgid "Edit"
+msgstr "Editer"
+
+#: ../content.php:26 ../content.php:29 ../content.php:65 ../content.php:68
+msgid ", "
+msgstr ""
+
+#: ../content.php:36
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/views/view.php:49
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: ../content.php:79 ../single-portfolio.php:50
+msgid "Share it"
+msgstr "Partager"
+
+#: ../content.php:80 ../single-portfolio.php:51
+msgid "Tweet it"
+msgstr ""
+
+#: ../index.php:23
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/config.php:5
+msgid "Blog"
+msgstr ""
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultat de la recherche pour : %s"
+
+#: ../single-portfolio.php:62
+msgid "Period :"
+msgstr "Durée"
+
+#: ../single-portfolio.php:70
+msgid "Categories:"
+msgstr "Catégories:"
+
+#: ../single-portfolio.php:72
+msgid "Category:"
+msgstr "Catégorie"
+
+#: ../single-portfolio.php:91
+msgid "View project"
+msgstr "Voir Projet"
+
+#: ../taxonomy-portfolio-category.php:17
+msgid "Portfolio Archive :"
+msgstr ""
+
+#: ../taxonomy-portfolio-category.php:39
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/views/view.php:26
+#: ../page-templates/portfolio.php:82
+msgid "View more"
+msgstr "Voir Plus"
+
+#: ../framework-customizations/extensions/megamenu/class-fw-extension-megamenu.php:86
+msgid "Select Icon"
+msgstr "Sélectionner une icon"
+
+#: ../framework-customizations/extensions/megamenu/class-fw-extension-megamenu.php:122
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:187
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:15
+msgid "Icon"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/manifest.php:7
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:64
+msgid "Mega Menu"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/manifest.php:8
+msgid ""
+"The Mega Menu extension adds a user-friendly drop down menu that will let "
+"you easily create highly customized menu configurations."
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:44
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:48
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:61
+msgid "sub item"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:65
+msgid "Column"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:97
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:108
+msgid "URL"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:117
+msgid "Navigation Label"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:125
+msgid "Title Attribute"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:134
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:141
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:149
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:157
+msgid "Mega Menu Column Title"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:158
+msgid "Item Title"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:172
+msgid "This column should start a new row"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:178
+msgid "Menu Subtitle"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:180
+msgid "This for Starry main menus left and right."
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:210
+msgid "Move"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:211
+msgid "Up one"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:212
+msgid "Down one"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:215
+msgid "To the top"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:224
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:237
+msgid "Remove"
+msgstr ""
+
+#: ../framework-customizations/extensions/megamenu/includes/class-fw-admin-menu-walker.php:238
+msgid "Cancel"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/config.php:6
+msgid ""
+"Carousel displaying the latest posts from the blog. ONLY FULL SIZE NO COLUMN."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/partners/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/skills/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_heading/config.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/team/config.php:7
+msgid "Starry Elements"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:5
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:5
+#: ../framework-customizations/extensions/shortcodes/shortcodes/partners/options.php:5
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:5
+#: ../framework-customizations/extensions/shortcodes/shortcodes/skills/options.php:5
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_titles/config.php:6
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_titles/options.php:8
+#: ../inc/widgets/contact/class-widget-contact.php:42
+#: ../inc/widgets/flickr/class-widget-flickr.php:49
+msgid "Title"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:6
+#: ../framework-customizations/extensions/shortcodes/shortcodes/partners/options.php:6
+#: ../framework-customizations/extensions/shortcodes/shortcodes/skills/options.php:6
+msgid ""
+"This is the text that appears above the carousel. It will not be displayed "
+"if the field is empty"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:11
+#: ../framework-customizations/extensions/shortcodes/shortcodes/partners/options.php:11
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:11
+#: ../framework-customizations/extensions/shortcodes/shortcodes/skills/options.php:11
+#: ../framework-customizations/theme/options/posts/page.php:17
+msgid "Subtitle"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:12
+#: ../framework-customizations/extensions/shortcodes/shortcodes/partners/options.php:12
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:12
+#: ../framework-customizations/extensions/shortcodes/shortcodes/skills/options.php:12
+msgid ""
+"This is the text that appears above the title. It will not be displayed if "
+"the field is empty"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:17
+msgid "Number of posts displayed"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:18
+msgid "A number please"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:23
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:27
+#: ../framework-customizations/extensions/shortcodes/shortcodes/skills/options.php:17
+#: ../inc/widgets/about/class-widget-about.php:74
+msgid "Button link"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:24
+msgid ""
+"This is the button that appears under the carousel. It will not be displayed "
+"if the field is empty"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:29
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:33
+#: ../framework-customizations/extensions/shortcodes/shortcodes/skills/options.php:23
+#: ../framework-customizations/theme/options/extra-footer.php:68
+msgid "Button title"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:30
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:34
+#: ../framework-customizations/extensions/shortcodes/shortcodes/skills/options.php:24
+msgid "Then the button title"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/column/options.php:5
+msgid "Extra Class to the column"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/column/options.php:6
+msgid "Such as: center to center the content inside."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/config.php:5
+msgid "Custom Container"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/config.php:6
+msgid ""
+"Full width container, with text on the left and buttons on the right side. "
+"ONLY FULL SIZE NO COLUMN."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:6
+msgid ""
+"This is the title of the box, on the left part. Please stay short. Moreover "
+"the title need to be unique if you use more than one box on the same page."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/text-block/options.php:10
+msgid "Content"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:12
+msgid ""
+"This is the content of the box, bellow the title, stay short too please (2 "
+"or 3 lines for a better render)"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:17
+msgid "The icon will be displayed in the background with a little opacity"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:21
+#: ../framework-customizations/theme/options/extra-footer.php:78
+msgid "Background color"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:23
+msgid ""
+"The background of the container, remember that white color should come out"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:27
+msgid "Button #1 Content"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:28
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:44
+msgid "The button is on the right side."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:33
+msgid "Button #1 Link"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:38
+msgid "Button #1 Icon"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:43
+msgid "Button #2 Content"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:48
+msgid "Button #2 Link"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/custom_container/options.php:52
+msgid "Button #2 Icon"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/config.php:5
+msgid "Form"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/config.php:6
+msgid "Will display a form with informations set in the Theme settings page."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/views/view.php:58
+msgid "Thanks"
+msgstr "Merci"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/views/view.php:59
+msgid ""
+"Your message was sent successfully. You will receive a response shortly."
+msgstr "Votre message a été envoyé. Vous allez recevoir une réponse rapidement"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/views/view.php:64
+msgid "Sorry,"
+msgstr "Désolé,"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/views/view.php:65
+msgid ""
+"Your message can't be send...check if your email is correct otherwise a "
+"field is missing..."
+msgstr ""
+"Votre message ne peut pas être envoyé, vérifié votre email ou un champ est "
+"manquant..."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/views/view.php:76
+#: ../inc/hooks.php:453
+msgid "Name"
+msgstr "Nom "
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/views/view.php:83
+#: ../framework-customizations/theme/options/contact.php:15
+#: ../inc/hooks.php:455
+msgid "Email"
+msgstr "Email"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/views/view.php:90
+msgid "Topic"
+msgstr "Sujet"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/views/view.php:104
+msgid "Message"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/form/views/view.php:112
+msgid "Send"
+msgstr "Envoyer"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/partners/config.php:5
+msgid "Partners"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/partners/config.php:6
+msgid "Starry displaying your partners. ONLY FULL SIZE NO COLUMN."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/config.php:5
+msgid "Portfolio"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/config.php:6
+msgid ""
+"Grid displaying the latest projects from the portfolio. ONLY FULL SIZE NO "
+"COLUMN."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:6
+msgid ""
+"This is the text that appears above the grid. It will not be displayed if "
+"the field is empty"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:17
+msgid "Number of projects displayed"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:28
+#: ../framework-customizations/extensions/shortcodes/shortcodes/skills/options.php:18
+msgid ""
+"This is the button that appears under the grid. It will not be displayed if "
+"the field is empty"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/section/options.php:5
+msgid "Section ID"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/section/options.php:6
+msgid ""
+"Mainly for the OnePage version, you can add ID to identify them in your Menu"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/skills/config.php:5
+#: ../framework-customizations/theme/options/posts/partners.php:12
+msgid "Skills"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/skills/config.php:6
+msgid "Will Display all the skills in a grid. ONLY FULL SIZE NO COLUMN."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/config.php:6
+msgid "Button"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/config.php:7
+msgid "A very awesome button"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/config.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_titles/config.php:8
+msgid "Content Elements"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/options.php:7
+msgid "Button Label"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/options.php:8
+msgid "This is the text that appears on your button"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/options.php:13
+#: ../framework-customizations/theme/options/extra-footer.php:73
+msgid "Button Link"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/options.php:14
+msgid "Where should your button link to"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/options.php:20
+msgid "Open Link in New Window"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/options.php:21
+msgid "Select here if you want to open the linked page in a new window"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/options.php:24
+#: ../framework-customizations/theme/options/header.php:146
+#: ../framework-customizations/theme/options/home.php:119
+msgid "Yes"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/options.php:28
+#: ../framework-customizations/theme/options/header.php:150
+#: ../framework-customizations/theme/options/home.php:123
+msgid "No"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/options.php:32
+msgid "Button icon"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_button/options.php:33
+msgid "Choose an icon for your button just before the label"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_heading/config.php:6
+msgid "Special Heading"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_heading/config.php:7
+msgid "Make special headings with an elegant separation under the title"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_heading/options.php:8
+msgid "Heading Title"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_heading/options.php:9
+msgid "Write the heading title content"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_heading/options.php:13
+msgid "Heading Subtitle"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_heading/options.php:14
+msgid "Write the heading subtitle content"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_heading/options.php:18
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_titles/options.php:13
+msgid "Heading Size"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_titles/config.php:7
+msgid "Sample title without separation below."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/starry_titles/options.php:9
+msgid ""
+"Write the heading title content, this is just a title, no separation below."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/team/config.php:5
+msgid "Team"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/team/config.php:6
+msgid "Will display all the teammates or your team. ONLY FULL SIZE NO COLUMN."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/text-block/options.php:11
+msgid "Enter some content for this texblock"
+msgstr ""
+
+#: ../framework-customizations/theme/manifest.php:9
+msgid "Starry"
+msgstr ""
+
+#: ../framework-customizations/theme/manifest.php:11
+msgid "Another awesome wordpress theme"
+msgstr ""
+
+#: ../framework-customizations/theme/options/contact.php:7
+#: ../inc/widgets/contact/class-widget-contact.php:10
+msgid "Contact"
+msgstr ""
+
+#: ../framework-customizations/theme/options/contact.php:11
+msgid "Contact informations (for the widget, topbar and the form)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/contact.php:16
+msgid "Email here please for the contact form"
+msgstr ""
+
+#: ../framework-customizations/theme/options/contact.php:21
+msgid "Phone"
+msgstr ""
+
+#: ../framework-customizations/theme/options/contact.php:26
+msgid "Address line 1"
+msgstr ""
+
+#: ../framework-customizations/theme/options/contact.php:31
+msgid "Address line 2"
+msgstr ""
+
+#: ../framework-customizations/theme/options/contact.php:36
+msgid "Address line 3"
+msgstr ""
+
+#: ../framework-customizations/theme/options/contact.php:40
+msgid "Form topics"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-types.php:7
+msgid "Post Options"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-types.php:11
+#: ../framework-customizations/theme/options/header.php:11
+#: ../framework-customizations/theme/options/home.php:11
+msgid "Main options"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-types.php:15
+msgid "Single Project Sharing"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-types.php:16
+msgid "Display social sharing buttons on project page for the portfolio"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-types.php:20
+#: ../framework-customizations/theme/options/custom-types.php:48
+#: ../framework-customizations/theme/options/extra-footer.php:19
+#: ../framework-customizations/theme/options/footer.php:20
+#: ../framework-customizations/theme/options/footer.php:70
+#: ../framework-customizations/theme/options/general-settings.php:30
+#: ../framework-customizations/theme/options/general-settings.php:48
+#: ../framework-customizations/theme/options/header.php:54
+#: ../framework-customizations/theme/options/header.php:72
+#: ../framework-customizations/theme/options/header.php:90
+#: ../framework-customizations/theme/options/header.php:172
+#: ../framework-customizations/theme/options/home.php:26
+#: ../framework-customizations/theme/options/social.php:19
+msgid "Show"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-types.php:24
+#: ../framework-customizations/theme/options/custom-types.php:52
+#: ../framework-customizations/theme/options/extra-footer.php:23
+#: ../framework-customizations/theme/options/footer.php:24
+#: ../framework-customizations/theme/options/footer.php:74
+#: ../framework-customizations/theme/options/general-settings.php:34
+#: ../framework-customizations/theme/options/general-settings.php:52
+#: ../framework-customizations/theme/options/header.php:58
+#: ../framework-customizations/theme/options/header.php:76
+#: ../framework-customizations/theme/options/header.php:94
+#: ../framework-customizations/theme/options/header.php:176
+#: ../framework-customizations/theme/options/home.php:30
+#: ../framework-customizations/theme/options/social.php:23
+msgid "Hide"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-types.php:43
+msgid "Single Post Sharing"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-types.php:44
+msgid "Display social sharing buttons in the blog"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:7
+msgid "Extra footer"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:11
+msgid "Main setting"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:15
+msgid "Display the extra footer : contact boxes"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:32
+msgid "Extra footer title"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:33
+msgid "The headline before"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:38
+msgid "Extra footer subtitle"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:43
+msgid "Extra footer Box"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:45
+msgid "4 boxes max"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:49
+msgid "Box title"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:52
+msgid "Network name."
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:56
+msgid "Box text content"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:59
+msgid "Be short again please, try to keep the same number of lines."
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:63
+msgid "Box icon"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:81
+msgid ""
+"To save your your time ;) Twitter : #00aced, Google+ : #dd4b39, YouTube : "
+"#bb0000, linkedin: #007bb6"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:89
+msgid "Disable this on several pages"
+msgstr ""
+
+#: ../framework-customizations/theme/options/extra-footer.php:91
+msgid "The ID/name of the page (such as the contact page ID for instance)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:7
+msgid "Footer"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:11
+#: ../framework-customizations/theme/options/general-settings.php:11
+msgid "General Settings"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:15
+msgid "Widgets in the footer"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:16
+msgid ""
+"3 columns widget area in the footer, you can set them in the widget page"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:31
+msgid "Footer area first color"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:32
+msgid "Links, Icons..."
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:37
+msgid "Footer area second color"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:40
+msgid "Footer area image pattern"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:42
+#: ../framework-customizations/theme/options/general-settings.php:105
+msgid ""
+"Check out cool free ones compatible with the theme here <a href=\"//"
+"subtlepatterns.com\" target=\"_blank\">Subtlepatterns.com</a>"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:46
+msgid "Footer area pattern size : WIDTH"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:49
+#: ../framework-customizations/theme/options/footer.php:56
+#: ../framework-customizations/theme/options/general-settings.php:65
+#: ../framework-customizations/theme/options/general-settings.php:72
+#: ../framework-customizations/theme/options/general-settings.php:111
+#: ../framework-customizations/theme/options/general-settings.php:118
+#: ../framework-customizations/theme/options/header.php:18
+#: ../framework-customizations/theme/options/header.php:31
+#: ../framework-customizations/theme/options/header.php:38
+#: ../framework-customizations/theme/options/header.php:45
+#: ../framework-customizations/theme/options/header.php:137
+#: ../framework-customizations/theme/options/main-style.php:63
+msgid "In Pixel"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:50
+#: ../framework-customizations/theme/options/footer.php:57
+#: ../framework-customizations/theme/options/general-settings.php:66
+#: ../framework-customizations/theme/options/general-settings.php:73
+#: ../framework-customizations/theme/options/general-settings.php:112
+#: ../framework-customizations/theme/options/general-settings.php:119
+#: ../framework-customizations/theme/options/header.php:19
+#: ../framework-customizations/theme/options/header.php:32
+#: ../framework-customizations/theme/options/header.php:39
+#: ../framework-customizations/theme/options/header.php:46
+#: ../framework-customizations/theme/options/header.php:138
+#: ../framework-customizations/theme/options/main-style.php:64
+msgid "No need to set px"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:53
+msgid "Footer area pattern size : HEIGHT"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:60
+msgid "(Optional) Footer area retina image pattern"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:62
+#: ../framework-customizations/theme/options/general-settings.php:124
+msgid "2x time the size of the one above"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:66
+msgid "Display copyright bottom bar"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:83
+msgid "Copyright uppercase ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:88
+msgid "Copyright Content"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:7
+msgid "General"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:15
+msgid "Favicon"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:16
+msgid "Upload a favicon image"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:20
+msgid "Default featued image"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:21
+msgid ""
+"In the header of every page if you do not set any featured image through "
+"Wordpress. <strong>Size like 2048x1365</strong>"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:25
+msgid "Scroll to top button"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:26
+msgid ""
+"It is the bottom right button on every page which appears when you scroll "
+"down"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:43
+msgid "Page loading"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:44
+msgid "White screen whild page is loading with your logo."
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:57
+msgid "Page loading: LOGO"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:62
+msgid "Page loading : LOGO WIDTH"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:69
+msgid "Page loading : LOGO HEIGHT"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:76
+msgid "CSS3 animations"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:80
+msgid "Enable"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:84
+msgid "Disable"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:89
+msgid "Website layout"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:93
+msgid "Wide"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:97
+msgid "Boxed"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:102
+msgid "If boxed layout: Background image pattern"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:108
+msgid "If boxed layout: Pattern width -> WIDTH"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:115
+msgid "If boxed layout: Pattern width -> HEIGHT"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general-settings.php:122
+msgid "(Optional) If boxed layout: Background retina image pattern"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:7
+msgid "Header/Topbar"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:15
+msgid "Header height for pages"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:22
+msgid "Main Logo: Image"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:23
+msgid "Upload your image for the logo (white color advised)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:28
+msgid "Main Logo: Width"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:35
+msgid "Main Logo: Margin top from menu"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:42
+msgid "Main Logo: Height"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:49
+msgid "Display slogan in the main menu ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:50
+msgid "Under the logo image"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:67
+msgid "Animated pointer ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:68
+msgid "The futuristic animation on the cursor in the header"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:85
+msgid "Display shadow in the header ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:86
+msgid "Inner shadow to highlight your content"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:99
+msgid "Shadow opacity"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:102
+msgid "Between 0 and 1"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:103
+msgid "like 0.6"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:108
+msgid "Header Main color"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:109
+msgid ""
+"Default color for the header elements. Regarding the text ticker we use the "
+"font families set in \"Content Style\" tab."
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:112
+msgid "Menu font uppercase ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:117
+msgid "Menu font weight"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:119
+#: ../framework-customizations/theme/options/main-style.php:69
+msgid "Beware, all these font weights may not be available for all the fonts"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:134
+msgid "Menu spacing from top"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:141
+msgid "Fixed Navigation"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:142
+msgid ""
+"Do you want to to fix a bar on the top of the page when the user scroll ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:155
+msgid "Main Logo for fixed menu: Image"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:156
+msgid ""
+"Same as above but has to bring out over white color (dark color advised). "
+"Same size than the one above."
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:164
+msgid "Topbar Options"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:168
+msgid "Display the top bar"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:185
+msgid "Topbar componants"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:195
+msgid "Display your phone number in the topbar(set in Contact tab)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:196
+msgid "Display a custom menu in the topbar(set in menu page)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:197
+msgid "Display the social icons in the topbar"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:198
+msgid "Display the search icon in the topbar"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:199
+msgid "Display the languages dropdown in the topbar (compatible with WPML)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:203
+msgid "Text before the social icons"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:7
+msgid "Home"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:15
+msgid "Beware"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:21
+msgid "Scroll bottom arrow"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:22
+msgid "In the top part of the home page"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:44
+msgid "Header type"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:47
+msgid "Single Image"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:48
+msgid "Slider"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:49
+msgid "Video (advanced)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:56
+msgid "Home background image"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:57
+msgid ""
+"So you do not need to set a featured image for the home page in Wordpress, "
+"just upload it here."
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:65
+msgid "Images in the slider"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:66
+msgid "Just upload the images for the slider here"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:71
+msgid "Display navigation"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:74
+msgid "The arrows"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:79
+msgid "Video MP4 format"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:80
+msgid "VIDEO FILE. This is the most important format."
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:85
+msgid "Video Poster -> JPG"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:86
+msgid ""
+"This is the image displayed when the videos are not supported on the "
+"browser, so it is just a screenshot."
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:92
+msgid "Video OGV format"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:93
+msgid "VIDEO FILE. Enhance the video compatibility over most browsers"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:98
+msgid "Video WEBM format (FILE)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:99
+msgid ""
+"VIDEO FILE. Enhance the video compatibility over most browsers. If the file "
+"is too big, leave this field empty and take a look below."
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:104
+msgid "Video WEBM (LINK)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:105
+msgid ""
+"Webm use to be heavier, if the video file is too big for Worpdress uploader, "
+"use your FTP and copy/past the link here."
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:114
+msgid "Text ticker/slider"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:115
+msgid "Do you want to display the text ticker/slider in the home page"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:128
+msgid "Text ticker text introduction"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:133
+msgid "Text ticker content"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:138
+msgid ""
+"The sentences, displayed in the text ticker. <strong>Be short please (no "
+"more than 6 words is advised)</strong>"
+msgstr ""
+
+#: ../framework-customizations/theme/options/home.php:139
+msgid "Be sure, that the field above \"Text ticker\" is set on YES"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:7
+msgid "Content Style"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:11
+msgid "Main style"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:15
+msgid "Main font"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:17
+msgid "Used in the content, or by default, the size is only for the paragraph."
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:26
+msgid "Second font"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:28
+msgid ""
+"Second font in the content. Size does not matter here (regarding the "
+"subtitles)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:39
+msgid "Main color"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:40
+msgid "Default color for many elements such as buttons background"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:45
+msgid "Main hover color"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:48
+msgid "Default font line height"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:51
+msgid "In em"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:52
+msgid "No need to set em"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:55
+msgid "Headlines uppercase ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:60
+msgid "Headlines letter spacing"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:67
+msgid "Headlines font weight"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:84
+msgid "Light font weight"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:86
+msgid ""
+"Used at many places in the theme (widget title, post title in the blog "
+"grid...), Beware, all these font weights may not be available for all the "
+"fonts"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:102
+msgid "Used for some borders and the submenu text."
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:103
+msgid "Light color"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:107
+msgid "Custom CSS"
+msgstr ""
+
+#: ../framework-customizations/theme/options/main-style.php:108
+msgid "No need to set the tags (&lt;style&gt;)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:7
+msgid "Social Networks"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:11
+msgid "Networks"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:15
+msgid "Display RSS icon"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:28
+msgid "Facebook URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:29
+#: ../framework-customizations/theme/options/social.php:35
+#: ../framework-customizations/theme/options/social.php:41
+#: ../framework-customizations/theme/options/social.php:47
+#: ../framework-customizations/theme/options/social.php:53
+#: ../framework-customizations/theme/options/social.php:59
+#: ../framework-customizations/theme/options/social.php:65
+#: ../framework-customizations/theme/options/social.php:71
+#: ../framework-customizations/theme/options/social.php:77
+#: ../framework-customizations/theme/options/social.php:83
+#: ../framework-customizations/theme/options/social.php:89
+#: ../framework-customizations/theme/options/social.php:95
+#: ../framework-customizations/theme/options/social.php:101
+msgid "Direct URL to your page"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:31
+#: ../framework-customizations/theme/options/social.php:37
+#: ../framework-customizations/theme/options/social.php:43
+#: ../framework-customizations/theme/options/social.php:49
+#: ../framework-customizations/theme/options/social.php:55
+#: ../framework-customizations/theme/options/social.php:61
+#: ../framework-customizations/theme/options/social.php:67
+#: ../framework-customizations/theme/options/social.php:73
+#: ../framework-customizations/theme/options/social.php:79
+#: ../framework-customizations/theme/options/social.php:85
+#: ../framework-customizations/theme/options/social.php:91
+#: ../framework-customizations/theme/options/social.php:97
+#: ../framework-customizations/theme/options/social.php:103
+msgid "Just enter something to enable it"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:34
+msgid "Twitter URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:40
+msgid "Youtube URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:46
+msgid "Skype URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:52
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:58
+msgid "Github URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:64
+msgid "Paypal URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:70
+msgid "Flickr URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:76
+msgid "Trello URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:82
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:88
+msgid "Instagram URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:94
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/social.php:100
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/page.php:12
+msgid "Page settings"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/page.php:16
+msgid "Page Options"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/page.php:18
+msgid ""
+"Subtitle under the title in your page (Not needed if it is the home page."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/partners.php:16
+msgid "Optional link on the logo"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/portfolio.php:12
+msgid "Project Options"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/portfolio.php:16
+msgid "Project URL"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/portfolio.php:18
+msgid "The link to your project, leaves empty and it will not be displayed"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/portfolio.php:22
+msgid "Project Gallery"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/portfolio.php:25
+msgid ""
+"If you want to add more than a thumbnail image, these images will be "
+"displayed in the slider on the project page"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/portfolio.php:28
+msgid "Project Date"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/portfolio.php:29
+msgid ""
+"To locate your project in time, it is an option here, it will not be "
+"displayed if you leave it empty."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/skills.php:12
+#: ../framework-customizations/theme/options/posts/team.php:12
+msgid "Settings"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/skills.php:16
+msgid "Skill icon"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/skills.php:18
+msgid "Used for both the shortcode and the page before the title"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/skills.php:22
+msgid "Excerpt for the shortcode"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/skills.php:24
+msgid ""
+"Short description of the skill used in the shortcode. Long as a tweet is "
+"good : approximately 140 characters."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/team.php:16
+msgid "Social Network for the teammare"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/team.php:18
+msgid "8 boxes max. You can leave empty if you do not want"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/team.php:22
+msgid "Social icon"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/team.php:27
+msgid "Social Link"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins "
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:177
+#: ../inc/class-tgm-plugin-activation.php:1945
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:178
+msgid ""
+"The following plugin was activated successfully: - IMPORTANT -> Please use "
+"the documentation of the theme in a new tab during your dev process - <a "
+"href=\"//2f-design.fr/themes/starry/documentation\" target=\"_blank\">Online "
+"Documentation</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:534
+#: ../inc/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1290
+#: ../inc/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1312
+#: ../inc/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1636
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2059
+#: ../inc/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2059
+#: ../inc/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/hooks.php:110
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../inc/hooks.php:112
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../inc/hooks.php:130 ../inc/hooks.php:146
+msgid "Search..."
+msgstr ""
+
+#: ../inc/hooks.php:391
+msgid "Previous Posts"
+msgstr ""
+
+#: ../inc/hooks.php:395
+msgid "Next Posts"
+msgstr ""
+
+#: ../inc/hooks.php:403
+msgid "Previous Projects"
+msgstr ""
+
+#: ../inc/hooks.php:407
+msgid "Next Projects"
+msgstr ""
+
+#: ../inc/hooks.php:426
+msgid "<i class=\"fa fa-hand-o-left\"></i> %title"
+msgstr ""
+
+#: ../inc/hooks.php:428
+msgid "%title <i class=\"fa fa-hand-o-right\"></i>"
+msgstr ""
+
+#: ../inc/hooks.php:465
+msgid "Comment"
+msgstr ""
+
+#: ../inc/menus.php:8
+msgid "Main menu, left side (no more than 3 items please)"
+msgstr ""
+
+#: ../inc/menus.php:9
+msgid "Main menu, right side (no more than 3 items please)"
+msgstr ""
+
+#: ../inc/menus.php:10
+msgid "Menu in top bar"
+msgstr ""
+
+#: ../inc/menus.php:11
+msgid "Menu in the footer (right side from the copyright text)"
+msgstr ""
+
+#: ../inc/widgets/about/class-widget-about.php:10
+msgid "About"
+msgstr ""
+
+#: ../inc/widgets/about/class-widget-about.php:62
+msgid "Logo Image (318x70 for instance and PNG please)"
+msgstr ""
+
+#: ../inc/widgets/about/class-widget-about.php:68
+msgid "Small text to describe your business"
+msgstr ""
+
+#: ../inc/widgets/about/views/widget.php:9
+msgid "Read more"
+msgstr ""
+
+#: ../inc/widgets/contact/class-widget-contact.php:49
+msgid "Display address"
+msgstr ""
+
+#: ../inc/widgets/contact/class-widget-contact.php:57
+msgid "Display Phone"
+msgstr ""
+
+#: ../inc/widgets/contact/class-widget-contact.php:65
+msgid "Display Social"
+msgstr ""
+
+#: ../inc/widgets/contact/class-widget-contact.php:73
+msgid "Contact button link"
+msgstr ""
+
+#: ../inc/widgets/contact/views/widget.php:38
+msgid "Contact Form"
+msgstr ""
+
+#: ../inc/widgets/flickr/class-widget-flickr.php:10
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/widgets/flickr/class-widget-flickr.php:55
+msgid "Flickr ID"
+msgstr ""
+
+#: ../inc/widgets/flickr/class-widget-flickr.php:62
+msgid "Number of photos"
+msgstr ""
+
+#: ../page-templates/portfolio.php:44
+msgid "Show all"
+msgstr ""
+
+#: ../page-templates/portfolio.php:90
+msgid "No match on this page..."
+msgstr ""
+
+#: ../page-templates/portfolio.php:91
+msgid ""
+"Unfortunately, there is no project with such category on this page, try on "
+"the next one. (Navigation at the right :)"
+msgstr ""

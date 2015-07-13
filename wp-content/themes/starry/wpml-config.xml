@@ -1,0 +1,74 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">subtitle</custom-field>
+        <custom-field action="copy">link</custom-field>
+        <custom-field action="copy">projectlink</custom-field>
+        <custom-field action="copy">projectgallery</custom-field>
+        <custom-field action="copy">projectdate</custom-field>
+        <custom-field action="copy">skillicon</custom-field>
+        <custom-field action="translate">skillmessage</custom-field>
+        <custom-field action="translate">teamsocial</custom-field>
+    </custom-fields> 
+    <custom-types>
+	 <custom-type translate="1">portfolio</custom-type>
+	 <custom-type translate="1">team</custom-type>
+	 <custom-type translate="0">partners</custom-type>
+	 <custom-type translate="1">skills</custom-type>
+	</custom-types>
+    <admin-texts>
+     <!-- fw_theme_settings_options:YOURTHEME (this is the field in the database)-->
+     <key name="fw_theme_settings_options:starry">
+      <!-- text field in Unyson theme settings-->
+      <key name="footercopyrightcontent"/>
+      <!-- adable options -> text field (limited to 10) -->
+      <key name="hometickercontent2">
+        <key name="0"/>
+        <key name="1"/>
+        <key name="2"/>
+        <key name="3"/>
+        <key name="4"/>
+        <key name="5"/>
+        <key name="6"/>
+        <key name="7"/>
+        <key name="8"/>
+        <key name="9"/>
+        <key name="10"/>
+      </key>
+      <!-- text field in Unyson theme settings-->
+      <key name="extrafootertitle"/>
+      <!-- text field in Unyson theme settings-->
+      <key name="hometickerintroduce"/>
+      <!-- text field in Unyson theme settings-->
+      <key name="topbarsocialtext"/>
+      <!-- text field in Unyson theme settings-->
+      <key name="portfolioextratitle"/>
+      <!-- text field in Unyson theme settings-->
+      <key name="portfoliosubtitle"/>
+      <!-- adable options (limited to 4) with fields inside-->
+      <key name="extrafooterbox">
+        <key name="0">
+            <key name="extrafooterboxtitle"/>
+            <key name="extrafooterboxcontent"/>
+            <key name="extrafooterboxbuttontitle"/>
+        </key>
+        <key name="1">
+            <key name="extrafooterboxtitle"/>
+            <key name="extrafooterboxcontent"/>
+            <key name="extrafooterboxbuttontitle"/>
+        </key>
+        <key name="2">
+            <key name="extrafooterboxtitle"/>
+            <key name="extrafooterboxcontent"/>
+            <key name="extrafooterboxbuttontitle"/>
+        </key>
+        <key name="3">
+            <key name="extrafooterboxtitle"/>
+            <key name="extrafooterboxcontent"/>
+            <key name="extrafooterboxbuttontitle"/>
+        </key>
+      </key>
+     </key>
+    </admin-texts>
+</wpml-config>
+
+
